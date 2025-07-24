@@ -1,4 +1,4 @@
-# weather-fastapi-app[readme.md](https://github.com/user-attachments/files/21415549/readme.md)# 3D CNN NOAA Weather Event Detector 🌩️
+# weather-fastapi-app 3D CNN NOAA Weather Event Detector 🌩️
 
 This project uses a 3D Convolutional Neural Network to detect the most likely weather event (e.g., thunderstorm, hail, flood) based on latitude, longitude, state, and month.
 

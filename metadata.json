@@ -1,0 +1,16 @@
+{
+  "model_name": "3D CNN NOAA Weather Event Detector",
+  "version": "1.0",
+  "input_format": {
+    "lat": "float",
+    "lon": "float",
+    "state_code": "int",
+    "month": "int"
+  },
+  "output": "Weather event type (string label)",
+  "framework": "TensorFlow Keras",
+  "created_by": "Tejasri",
+  "trained_on": "NOAA Storm Events (1987–2020)",
+  "model_file": "weights/3dcnn_model.h5",
+  "labels_file": "weights/class_labels_3dcnn.npy"
+}
